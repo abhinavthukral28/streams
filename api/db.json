@@ -1,9 +1,22 @@
 {
   "streams": [
     {
-      "title": "My Stream",
-      "description": "Test Stream, Let's see",
+      "title": "Stargate",
+      "description": "About Stargate",
+      "userId": "100628969097761782932",
       "id": 1
+    },
+    {
+      "title": "Star Trek",
+      "description": "About StarTrek",
+      "userId": "100628969097761782932",
+      "id": 2
+    },
+    {
+      "title": "StarLink",
+      "description": "About StarLink",
+      "userId": "100628969097761782932",
+      "id": 3
     }
   ]
 }
