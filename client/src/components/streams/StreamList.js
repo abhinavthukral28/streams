@@ -8,7 +8,6 @@ class StreamList extends React.Component {
   }
 
   renderAdmin(stream) {
-    console.log(`Component: ${stream.userId} and Redux: ${stream.userId}`);
     if (stream.userId === this.props.userId) {
       return (
         <div className="right floated content">
